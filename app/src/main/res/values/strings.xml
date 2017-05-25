@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ArchWeather</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key">AIzaSyB9W41AifWoKAbSfcdq44ruvIN02PBvYvs</string>
+
+    //Main
+    <string name="permissions_warning">É necessário permitir o acesso à sua localização para utilizar o aplicativo</string>
+    <string name="allow_access">Permitir acesso</string>
+    <string name="location_null">Sua localização não foi reconhecida. Verifique seu GPS.</string>
+    <string name="google_api_failed">A conexão com os serviços Google falhou. Tente novamente mais tarde.</string>
+    <string name="google_api_canceled">A conexão com os serviços Google foi cancelada</string>
+
+    //Weather API
+    <string name="api_key">ba9c8d5ff918e75a8ab5bd76d21fca4e</string>
+    <string name="path_url">http://api.openweathermap.org/data/2.5/</string>
+
+    //ListWeather
+    <string name="loading_error">Houve um problema ao carregar a lista, tente novamente mais tarde.</string>
+    <string name="item_min">Min: </string>
+    <string name="item_max">Max: </string>
+
+    //MapWeather
+    <string name="empty_list">Não há dados para o local desejado.</string>
+</resources>
